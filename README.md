@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science Student  
 💻 Interested in AI, Web Development & Geospatial Technologies  
-🎨 Artist who loves sketches & paintings  
+ 
 
 ---
 
@@ -15,10 +15,10 @@
 ---
 
 ## 🧠 Projects
-🔹 AI-Powered Cybersecurity Threat Detection  
-🔹 Credit Card Fraud Detection using ML  
-🔹 Multi-Source Air Pollution Data Portal  
-🔹 Google Earth Engine Pollution Mapping  
+   Intelligent Question Answering System
+   Music Recommendation Syatem by Facial Emotions using AI
+   Air Quality Monitoring System using Machine learning
+   Development of satellite based Web Application for Visualization of Air Pollution
 
 ---
 
@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Contact Me
-✉ Email: yourmail@gmail.com  
-🔗 LinkedIn: your link
+✉ Email: kaverikurabetti@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kaveri-r-k-057855299/
