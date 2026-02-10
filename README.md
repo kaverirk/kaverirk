@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kaveri RK 👋
 
-<!--
-**kaverirk/kaverirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+💻 Interested in AI, Web Development & Geospatial Technologies  
+🎨 Artist who loves sketches & paintings  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Java, Python, C
+- Web: HTML, CSS, JavaScript, Flask
+- Tools: Git, GitHub, VS Code
+- Concepts: Machine Learning, APIs, DBMS
+
+---
+
+## 🧠 Projects
+🔹 AI-Powered Cybersecurity Threat Detection  
+🔹 Credit Card Fraud Detection using ML  
+🔹 Multi-Source Air Pollution Data Portal  
+🔹 Google Earth Engine Pollution Mapping  
+
+---
+
+## 💼 Internship
+📍 NRSC Intern
+
+---
+
+## 📫 Contact Me
+✉ Email: yourmail@gmail.com  
+🔗 LinkedIn: your link
