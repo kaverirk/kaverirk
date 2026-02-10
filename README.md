@@ -1,6 +1,5 @@
 # Hi, I'm Kaveri RK 👋
 
-🎓 B.Tech Computer Science Student 
 Aspiring software developer seeking an opportunity in a growth-oriented organization to apply my technical skills, 
 explore new technologies, and contribute to real-world solutions
 
